@@ -79,6 +79,7 @@ export function ModifyReadingBooks() {
                             <DeleteOutlineIcon/> 
                             </IconButton>                     
                         }
+                        
                       />
                     </ImageListItem>
                   ))}
