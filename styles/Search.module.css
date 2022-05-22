@@ -5,3 +5,12 @@
   width : 10%;
   height: 10%;
 }
+.box {
+  border: 1px solid gray;
+  padding: 50px;
+  margin: 20px;
+
+  }
+.parent {
+  float: left;
+}
